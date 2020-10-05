@@ -3,6 +3,12 @@
 
 - 🌱 I’m currently learning **React, C++**
 
+- 👯 I’m looking to collaborate on **Web Development Projects**
+
+- 🤝 I’m looking for help with **Data Structures and Algorithms**
+
+- 👨‍💻 All of my projects are available at [http://devmasters91.herokuapp.com/](http://devmasters91.herokuapp.com/)
+
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **astrogeek77@gmail.com**
