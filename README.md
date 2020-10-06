@@ -2,6 +2,14 @@
 <h3 align="center">A Passionate Fullstack developer from Punjab, India. Intrests in Space, Physics. Currently Working on C++/Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astrogeek77" alt="astrogeek77" /> </p>
+<p align="center">
+ 
+<img src="https://img.shields.io/github/followers/ahampriyanshu?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen" >
+<img src="https://img.shields.io/badge/Linkedin-Priyanshu_Tiwari-blue?style=plastic-square&logo=Linkedin&logoColor=blue&color=brightGreen&link=https://www.linkedin.com/in/ahampriyanshu" >
+<img src="https://img.shields.io/badge/Gmail-ahampriyanshu@gmail.com-red?style=plastic&logo=Gmail&logoColor=red&color=brightGreen" >
+<img src="https://img.shields.io/badge/Reddit-ahampriyanshu-red?style=plastic&logo=Reddit&logoColor=white&color=brightGreen" >
+
+</p>
 
 - 🌱 I’m currently learning **React, C++**
 
