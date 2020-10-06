@@ -33,9 +33,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeek77&layout=compact" alt="astrogeek77" />
  </p> -->
 
-<p align="center">
+<!--<p align="center">
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=astrogeek77&show_icons=true" alt="astrogeek77" />
-</p>
+</p>-->
 
 <p align="center">
     <a href="https://github.com/Astrogeek77">
