@@ -1,8 +1,10 @@
 <h1 align="center">Hello World 👋, I'm Gautam Jain</h1>
 <h3 align="center">A Passionate Fullstack developer from Punjab, India. Intrests in Space, Physics. Currently Working on C++/Python</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=astrogeek77" alt="astrogeek77" /> </p>
-<p align="center"> <img src="https://img.shields.io/github/followers/astrogeek77?label=Follow&style=social" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=astrogeek77" alt="astrogeek77" /> 
+  <img src="https://img.shields.io/github/followers/astrogeek77?label=Follow&style=social" /> 
+</p>
 
 
 - 🌱 I’m currently learning **React, C++**
