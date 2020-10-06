@@ -44,7 +44,7 @@
 </p>
 
 <div align="center">
- h2 align="Center">Connect with Me:</h2>
+  <h2 align="Center">Connect with Me:</h2>
 <a href="https://github.com/Astrogeek77" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
