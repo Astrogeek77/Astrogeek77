@@ -39,7 +39,7 @@
 
 <p align="center">
     <a href="https://github.com/Astrogeek77">
-        <img src="https://github-readme-stats.vercel.app/api?username=Astrogeek77&bg_color=333333&title_color=fff&text_color=fff&show_icons=true&theme=synthwave" >
+        <img src="https://github-readme-stats.vercel.app/api?username=Astrogeek77&bg_color=333333&title_color=fff&text_color=fff&show_icons=true&theme=radical" >
     </a>
 </p>
 
