@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=astrogeek77" alt="astrogeek77" /> 
   <img src="https://img.shields.io/github/followers/astrogeek77?label=Follow&style=social" /> 
+  <img src="https://img.shields.io/reddit/user-karma/combined/Astrogeek7?style=social" /> 
 </p>
 
 
