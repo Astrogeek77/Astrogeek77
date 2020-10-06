@@ -37,6 +37,12 @@
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=astrogeek77&show_icons=true" alt="astrogeek77" />
 </p>
 
+<p align="center">
+    <a href="https://github.com/Astrogeek77">
+        <img src="https://github-readme-stats.vercel.app/api?username=Astrogeek77&bg_color=333333&title_color=fff&text_color=fff&show_icons=true&theme=synthwave" >
+    </a>
+</p>
+
 <div align="center">
 <a href="https://github.com/Astrogeek77" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
