@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Fullstack developer from Punjab, India. Intrests in Space, Physics. Currently Working on C++/Python</h3>
 
 <p align="center">
-  <p src="#" <img src="https://komarev.com/ghpvc/?username=astrogeek77" alt="astrogeek77" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=astrogeek77" alt="astrogeek77" />
   <img src="https://img.shields.io/github/followers/astrogeek77?label=Follow&style=social" alt="astrogeek77"/> 
   <img src="https://img.shields.io/reddit/user-karma/combined/Astrogeek7?style=social" /> 
 </p>
