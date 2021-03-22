@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=astrogeek77" alt="astrogeek77" />
   <img src="https://img.shields.io/github/followers/astrogeek77?label=Follow&style=social" alt="astrogeek77"/> 
-  <img src="https://img.shields.io/reddit/user-karma/combined/Astrogeek7?style=social" /> 
 </p>
 
 
@@ -17,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [http://devmasters91.herokuapp.com/](http://devmasters91.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [My_Portfolio](https://astrosite77.netlify.app/)
 
 - 💬 Ask me about **Web Development**
 
