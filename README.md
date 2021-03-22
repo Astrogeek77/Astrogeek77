@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I Love making Friends.**
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeek77&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeek77&layout=compact)
 
 
 <h3 align="left">Languages and Tools:</h3>
