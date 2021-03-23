@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [My_Portfolio](https://astrosite77.netlify.app/)
+- 👨‍💻 All of my projects are available at [My_Portfolio](https://astrogeek77.github.io/My_Portfolio_Site/)
 
 - 💬 Ask me about **Web Development**
 
