@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">I'm Gautam Jain</h1>
-<h3 align="center">A Passionate Fullstack developer from Punjab, India. Interests in Space, Physics. Currently Working on C++/Python</h3>
+<h3 align="center">A Passionate Fullstack developer from Punjab, India. Interests in Space, Physics. Currently Working on C++/Data Structures</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=astrogeek77" alt="astrogeek77" />
@@ -10,7 +10,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React, C++**
+- 🌱 I’m currently learning **React, C++, Data Structures**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
