@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I Love making Friends.**
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/Astrogeek77">
         <img src="https://github-readme-stats.vercel.app/api?username=Astrogeek77&bg_color=333333&title_color=fff&text_color=fff&show_icons=true" >
     </a>
