@@ -26,17 +26,12 @@
 
 - ⚡ Fun fact **I Love making Friends.**
 
-<p align="center">
-    <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"         height="40"/>
-    </a>
-</p>
-<p align="center">
+<p align="left">
     <a href="https://github.com/Avninder99">
         <img src="https://github-readme-stats.vercel.app/api?username=Avninder99&bg_color=333333&title_color=fff&text_color=fff&show_icons=true" >
     </a>
 </p>
-<p align="center">
+<p align="right">
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeek77&layout=compact&langs_count=8)
 </P>
 
