@@ -18,6 +18,8 @@
 
 - 👨‍💻 All of my projects are available at [My_Portfolio](https://astrogeek77.github.io/My_Portfolio_Site/)
 
+- My Partner in crime [Avninder](https://github.com/Avninder99) and our website [Devmasters](https://devmasters91.herokuapp.com/)
+
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **astrogeek77@gmail.com**
