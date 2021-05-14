@@ -24,6 +24,8 @@
 
 - 📫 How to reach me **astrogeek77@gmail.com**
 
+- 📄 My Resume is available **[here](https://astrogeek77.github.io/Resume/Resume/)**.
+
 - ⚡ Fun fact **It took less code to send a man to the moon than to run a smartphone.**
 
 <h3 align="center">Languages and Tools:</h3>
