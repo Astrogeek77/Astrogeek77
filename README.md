@@ -38,11 +38,11 @@
 </p>
 
 
-<p align="center">
-    <a href="https://github.com/Astrogeek77">
-        <img src="https://github-readme-stats.vercel.app/api?username=Astrogeek77&bg_color=000&title_color=f1c40f&text_color=3498db&show_icons=true" >
-    </a>
-</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=astrogeek77&theme=default) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrogeek77&theme=default) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrogeek77&theme=default) 
 
 
 
