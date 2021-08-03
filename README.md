@@ -37,12 +37,14 @@
 <a href="mailto:astrogeek77@gmail.com"><img src="https://media.giphy.com/media/KyHsvh3wJFLUXwlxuR/giphy.gif" width="40"></a><a href="https://reddit.com/user/astrogeeek77" ><img src="https://media.giphy.com/media/lrPG9TKacWvojf1UNi/giphy.gif" width="40"></a><a href="https://www.instagram.com/astrogeek77/"><img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" width="35"></a><a href="https://twitter.com/GautamJ49902907"><img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="35"></a><a  href="https://wa.me/9877663895?text=Hi%20Gautam"><img src="https://media.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif" width="40"></a> <a  href="https://t.me/astrogeek77"><img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="35"></a> <a href="https://github.com/astrogeek77"><img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35"></a>
 </p>
 
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=astrogeek77&theme=default) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrogeek77&theme=default) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrogeek77&theme=default) 
+<p  align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=github_dark" alt="github stats">
+  </br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=astrogeek77&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrogeek77&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrogeek77&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=astrogeek77&theme=github_dark">
+  </p>
 
 
 
