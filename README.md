@@ -2,34 +2,34 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">I'm Gautam Jain</h1>
-<h3 align="center">A Passionate Fullstack developer from Punjab, India. Interests in Space, Physics. Currently Working on C++/Data Structures</h3>
+<h3 align="center">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=astrogeek77" alt="astrogeek77" />
-  <img src="https://img.shields.io/github/followers/astrogeek77?label=Follow&style=social" alt="astrogeek77"/> 
+  <a href="https://github.com/astrogeek77"><img src="https://img.shields.io/github/followers/astrogeek77?label=Follow&style=social" alt="astrogeek77"/></a>
 </p>
 
 
-- 🌱 I’m currently learning **React, C++, Data Structures**
+- 🌱 I’m currently learning **React, Python, Data Structures**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects, Python Projects**
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
+- 🤝 I’m looking for help with **Data Structures and Algorithms, Compeptive Programming**
 
 - 👓💻 All of my projects are available at [My_Portfolio](https://astrosite77.netlify.app/)
 
 - 👥 My Partner in crime **[Avninder](https://github.com/Avninder99) and our website [Devmasters](https://devmasters91.herokuapp.com/)**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and CPP**
 
-- 📫 How to reach me **astrogeek77@gmail.com**
+- 📫 How to reach me **my mail: astrogeek77@gmail.com and my social handles are available below**
 
 - 📄 My Resume is available **[here](https://astrogeek77.github.io/Resume/Resume/)**.
 
 - ⚡ Fun fact **It took less code to send a man to the moon than to run a smartphone.**
 
 
-## 🚀 Languages and Tools: 
+<h2 align="center">🌠 My Tech Stack: </h2> 
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -48,12 +48,13 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="48"/> </a>
 </p>
 
-<h3 align="center">Reach Me:</h3>
+<h2 align="center">🤝 Reach Me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/gautam-jain-587675193/"><img src="https://media.giphy.com/media/db32HzmDbjp8xWEcO0/giphy.gif" width="40"></a>
 <a href="mailto:astrogeek77@gmail.com"><img src="https://media.giphy.com/media/KyHsvh3wJFLUXwlxuR/giphy.gif" width="40"></a><a href="https://reddit.com/user/astrogeeek77" ><img src="https://media.giphy.com/media/lrPG9TKacWvojf1UNi/giphy.gif" width="40"></a><a href="https://www.instagram.com/astrogeek77/"><img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" width="35"></a><a href="https://twitter.com/GautamJ49902907"><img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="35"></a><a  href="https://wa.me/9877663895?text=Hi%20Gautam"><img src="https://media.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif" width="40"></a> <a  href="https://t.me/astrogeek77"><img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="35"></a> <a href="https://github.com/astrogeek77"><img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35"></a>
 </p>
 
+<h2 align="center">🌠 My Statistics: </h2> 
 <p  align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=github_dark" alt="github stats">
   </br>
