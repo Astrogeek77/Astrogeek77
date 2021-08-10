@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects, Python Projects**
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms, Compeptive Programming**
+- 🤝 I’m looking for help with **Data Structures and Algorithms, Competitive Programming**
 
 - 👓💻 All of my projects are available at [My_Portfolio](https://astrosite77.netlify.app/)
 
