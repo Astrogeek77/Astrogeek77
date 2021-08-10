@@ -50,8 +50,12 @@
 
 <h2 align="center">🤝 Reach Me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/gautam-jain-587675193/"><img src="https://media.giphy.com/media/db32HzmDbjp8xWEcO0/giphy.gif" width="40"></a>
-<a href="mailto:astrogeek77@gmail.com"><img src="https://media.giphy.com/media/KyHsvh3wJFLUXwlxuR/giphy.gif" width="40"></a><a href="https://reddit.com/user/astrogeeek77" ><img src="https://media.giphy.com/media/lrPG9TKacWvojf1UNi/giphy.gif" width="40"></a><a href="https://www.instagram.com/astrogeek77/"><img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" width="35"></a><a href="https://twitter.com/GautamJ49902907"><img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="35"></a><a  href="https://wa.me/9877663895?text=Hi%20Gautam"><img src="https://media.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif" width="40"></a> <a  href="https://t.me/astrogeek77"><img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="35"></a> <a href="https://github.com/astrogeek77"><img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35"></a>
+<a href="https://www.linkedin.com/in/gautam-jain-587675193/"><img src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo.png" width="40"></a>
+<a href="mailto:astrogeek77@gmail.com"><img src="https://media.giphy.com/media/KyHsvh3wJFLUXwlxuR/giphy.gif" width="40"></a><a href="https://reddit.com/user/astrogeeek77" ><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FJ41hsV2swVteoeB8pDhqbQR3H83NrEBFv2q_kYdq1xp9vsI1Gz9A9pzjcwX_JrZpPGsa%3Dw300&f=1&nofb=1" width="40"></a>
+<a href="https://www.instagram.com/astrogeek77/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Finstagram-clipart-logo-1.png&f=1&nofb=1" width="40"></a>
+<a href="https://twitter.com/GautamJ49902907"><img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="40"></a>
+<a  href="https://wa.me/9877663895?text=Hi%20Gautam"><img src="https://media.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif" width="40"></a>
+<a  href="https://t.me/astrogeek77"><img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="40"></a> <a href="https://github.com/astrogeek77"><img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="35"></a>
 </p>
 
 <h2 align="center">🌠 My Statistics: </h2> 
