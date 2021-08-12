@@ -55,9 +55,9 @@
 <a href="mailto:astrogeek77@gmail.com"><img src="https://media.giphy.com/media/iPRtIf0OlGlSnNfV7W/giphy.gif" width="50" height="50"></a>
 <a href="https://reddit.com/user/astrogeeek77" ><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FJ41hsV2swVteoeB8pDhqbQR3H83NrEBFv2q_kYdq1xp9vsI1Gz9A9pzjcwX_JrZpPGsa%3Dw300&f=1&nofb=1" width="40"></a>
 <a href="https://www.instagram.com/astrogeek77/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Finstagram-clipart-logo-1.png&f=1&nofb=1" width="40"></a>
-<a href="https://twitter.com/GautamJ49902907"><img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="40"></a>
+<a href="https://twitter.com/GautamJ49902907"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.idownloadblog.com%2Fwp-content%2Fuploads%2F2015%2F11%2FTwitter-bird-logo-medium.png&f=1&nofb=1" width="40"></a>
 <a  href="https://wa.me/9877663895?text=Hi%20Gautam"><img src="https://media.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif" width="40"></a>
-<a  href="https://t.me/astrogeek77"><img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="40"></a> <a href="https://github.com/astrogeek77"><img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="35"></a>
+<a  href="https://t.me/astrogeek77"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Ftelegram-logo-png-telegram-png-images-free-img-512x512.png&f=1&nofb=1" width="40"></a> <a href="https://github.com/astrogeek77"><img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="35"></a>
 </p>
 
 <h2 align="center">🌠 My Statistics: </h2> 
