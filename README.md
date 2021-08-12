@@ -38,7 +38,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.shecodes.io%2Fassets%2Flogos%2Ftechnologies%2Fbootstrap-b63cede059eb73dc7036db08fc04826683fce2a3f7a557b40bc68cc3d69b1adb.png&f=1&nofb=1" width="50" </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.43c02f69bf.png" height="50" width="50"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnodejs-logo-vector-png-1-49-2-98-375.png&f=1&nofb=1" width="48" height="48"/> </a> 
@@ -56,8 +56,9 @@
 <a href="https://reddit.com/user/astrogeeek77" ><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FJ41hsV2swVteoeB8pDhqbQR3H83NrEBFv2q_kYdq1xp9vsI1Gz9A9pzjcwX_JrZpPGsa%3Dw300&f=1&nofb=1" width="40"></a>
 <a href="https://www.instagram.com/astrogeek77/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Finstagram-clipart-logo-1.png&f=1&nofb=1" width="40"></a>
 <a href="https://twitter.com/GautamJ49902907"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.idownloadblog.com%2Fwp-content%2Fuploads%2F2015%2F11%2FTwitter-bird-logo-medium.png&f=1&nofb=1" width="40"></a>
-<a  href="https://wa.me/9877663895?text=Hi%20Gautam"><img src="https://media.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif" width="40"></a>
-<a  href="https://t.me/astrogeek77"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Ftelegram-logo-png-telegram-png-images-free-img-512x512.png&f=1&nofb=1" width="40"></a> <a href="https://github.com/astrogeek77"><img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="35"></a>
+<a  href="https://wa.me/9877663895?text=Hi%20Gautam"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F5b%2Fe5%2Ffb%2F5be5fbcb55c0d12f61f03fd603c2ddd2.png&f=1&nofb=1" width="40"></a>
+<a  href="https://t.me/astrogeek77"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Ftelegram-logo-png-telegram-png-images-free-img-512x512.png&f=1&nofb=1" width="40" height="40"></a> 
+<a href="https://github.com/astrogeek77"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2351%2FPNG%2F512%2Flogo_github_icon_143196.png&f=1&nofb=1" width="40" height="40"></a>
 </p>
 
 <h2 align="center">🌠 My Statistics: </h2> 
