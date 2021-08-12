@@ -29,9 +29,10 @@
 - ⚡ Fun fact **It took less code to send a man to the moon than to run a smartphone.**
 
 
-<h2 align="center">🌠 My Tech Stack: </h2> 
 
-<p align="center" style="display: flex; flex-direction: row; justify-content: space-around"> 
+<h2 align="center">🌠 My Tech Stack: </h2>
+
+<p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.learncpp.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F166253%2Fisolated%2Fpreview%2F14bc03b7b1c2c4e2656fd4c0a981cbbc-icono-de-lenguaje-de-programaci--n-cpp-by-vexels.png&f=1&nofb=1" width="45"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
