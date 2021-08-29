@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms, Competitive Programming**
 
-- 👓💻 All of my projects are available at [My_Portfolio](https://astrosite77.netlify.app/)
+- 👓💻 All of my projects are available at [My_Portfolio](https://icodergautam.netlify.app/)
 
 - 👥 My Partner in crime **[Avninder](https://github.com/Avninder99) and our website [Devmasters](https://devmasters91.herokuapp.com/)**
 
