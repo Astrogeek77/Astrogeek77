@@ -5,8 +5,8 @@
 <h3 align="center">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=astrogeek77" alt="astrogeek77" />
-  <a href="https://github.com/astrogeek77"><img src="https://img.shields.io/github/followers/astrogeek77?label=Follow&style=social" alt="astrogeek77"/></a>
+  <img src="https://komarev.com/ghpvc/?username=astrogeek77&color=1DA1F2&style=for-the-badge" width="180px" alt="astrogeek77" />
+  <a href="https://github.com/astrogeek77"><img src="https://img.shields.io/github/followers/astrogeek77?label=Follow&style=social" width="130px" alt="astrogeek77"/></a>
 </p>
 
 
