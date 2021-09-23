@@ -10,7 +10,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React, Python, Data Structures**
+- 🌱 I’m currently learning **React, Data Structures**
 
 - 👯 I’m looking to collaborate on **Web Development Projects, Python Projects**
 
@@ -18,7 +18,7 @@
 
 - 👓💻 All of my projects are available at [My_Portfolio](https://astrogeek77.github.io/portfolio/)
 
-- 👥 My Partner in crime **[Avninder](https://github.com/Avninder99) and our website [Devmasters](https://devmasters91.herokuapp.com/)**
+- 👥 My Partners in crime **[Avninder Preet Singh](https://github.com/Avninder99) and [Konark Lohat](https://github.com/LastComrade)**
 
 - 💬 Ask me about **Web Development and CPP**
 
@@ -26,7 +26,7 @@
 
 - 📄 My Resume is available **[here](https://astrogeek77.github.io/resume/)**.
 
-- ⚡ Fun fact **It took less code to send a man to the moon than to run a smartphone.**
+- ⚡ Fun fact **It’s all 0’s and 1’s.**
 
 
 
