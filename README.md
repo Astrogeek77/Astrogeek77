@@ -29,7 +29,7 @@
 - ⚡ Fun fact **It’s all 0’s and 1’s.**
 
 
-
+<br>
  <h2 align="center">🌠 My Tech Stack: </h2>
 
 <p align="center"> 
@@ -50,7 +50,7 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mementotech.in%2Fassets%2Fimages%2Ficons%2Fexpress.png&f=1&nofb=1" alt="express" width="50" height="48"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif?cid=ecf05e47oloah70byvgsg46d1z6vmt4nqlqtly69yho39vov&rid=giphy.gif&ct=s" alt="Laravel" width="40" height="40"/> </a>
 </p>
-
+  
 <h2 align="center">🤝 Reach Me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/gautam-jain-587675193/"><img src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo.png" width="40"></a>
@@ -62,11 +62,13 @@
 <a  href="https://t.me/astrogeek77"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Ftelegram-logo-png-telegram-png-images-free-img-512x512.png&f=1&nofb=1" width="40" height="40"></a> 
 <a href="https://github.com/astrogeek77"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2351%2FPNG%2F512%2Flogo_github_icon_143196.png&f=1&nofb=1" width="40" height="40"></a>
 </p>
+<br>
 
 <h2 align="center">🌠 My Github Trophies: </h2> 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=discord&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy" width="50%">
 </p>
+<br>
 
 <h2 align="center">🌠 My Statistics: </h2> 
 <p  align="center">  
