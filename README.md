@@ -70,7 +70,8 @@
 
 <h2 align="center">🌠 My Statistics: </h2> 
 <p  align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=github_dark" width="80%" alt="github stats">
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=github_dark" width="80%" alt="github stats"> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeek77&theme=onedark_duo" alt="Astrogeek77" width="72%" />
   </br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=astrogeek77&theme=github_dark">
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrogeek77&theme=github_dark"> -->
