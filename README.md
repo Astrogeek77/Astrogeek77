@@ -63,10 +63,12 @@
 <a href="https://github.com/astrogeek77"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2351%2FPNG%2F512%2Flogo_github_icon_143196.png&f=1&nofb=1" width="40" height="40"></a>
 </p>
 
-<h2 align="center">🌠 My Statistics: </h2> 
+<h2 align="center">🌠 My Github Trophies: </h2> 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&theme=onedark" alt="github-trophy" width="80%">
+  <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=discord" alt="github-trophy" width="50%">
 </p>
+
+<h2 align="center">🌠 My Statistics: </h2> 
 <p  align="center">  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=github_dark" width="80%" alt="github stats">
   </br>
