@@ -64,14 +64,17 @@
 </p>
 
 <h2 align="center">🌠 My Statistics: </h2> 
-<p  align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=github_dark" alt="github stats">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&theme=onedark" alt="github-trophy" width="80%">
+</p>
+<p  align="center">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=github_dark" width="80%" alt="github stats">
   </br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=astrogeek77&theme=github_dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrogeek77&theme=github_dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrogeek77&theme=github_dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=astrogeek77&theme=github_dark">
-  </p>
+ </p>
 
 
 
