@@ -66,7 +66,7 @@
 
 <h2 align="center">🏆 My Github Trophies: </h2> 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=1&column=6&theme=discord&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=discord&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy">
 </p>
 <br>
 
