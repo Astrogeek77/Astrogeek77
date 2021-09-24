@@ -30,7 +30,7 @@
 
 
 <br>
- <h2 align="center">🌠 My Tech Stack: </h2>
+ <h2 align="center">🖥 My Tech Stack: </h2>
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -64,13 +64,13 @@
 </p>
 <br>
 
-<h2 align="center">🌠 My Github Trophies: </h2> 
+<h2 align="center">🏆 My Github Trophies: </h2> 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=discord&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=1&column=6&theme=discord&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy">
 </p>
 <br>
 
-<h2 align="center">🌠 My Statistics: </h2> 
+<h2 align="center">📢 My Statistics: </h2> 
 <p  align="center">  
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=github_dark" width="80%" alt="github stats"> -->
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeek77&theme=onedark_duo" alt="Astrogeek77" />
