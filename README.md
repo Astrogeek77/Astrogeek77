@@ -66,14 +66,14 @@
 
 <h2 align="center">🌠 My Github Trophies: </h2> 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=discord&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy" width="50%">
+  <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=discord&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy">
 </p>
 <br>
 
 <h2 align="center">🌠 My Statistics: </h2> 
 <p  align="center">  
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=github_dark" width="80%" alt="github stats"> -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeek77&theme=onedark_duo" alt="Astrogeek77" width="72%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeek77&theme=onedark_duo" alt="Astrogeek77" />
   </br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=astrogeek77&theme=github_dark">
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrogeek77&theme=github_dark"> -->
