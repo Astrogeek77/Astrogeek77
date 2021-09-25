@@ -1,13 +1,17 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+  <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
-<h1 align="center">I'm Gautam Jain</h1>
-<h3 align="center">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
+<img align="right" src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif?cid=ecf05e47ytteqzghtb3px7e3ewd3uxlg6h9k03ygtnouunjf&rid=giphy.gif&ct=s" width="400px" alt="Developer">
+<h1 align="left">I'm Gautam Jain</h1>
+<h3 align="left">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
 
-<p align="center">
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=astrogeek77&color=1DA1F2&style=for-the-badge" width="180px" alt="astrogeek77" />
   <a href="https://github.com/astrogeek77"><img src="https://img.shields.io/github/followers/astrogeek77?label=Follow&style=social" width="130px" alt="astrogeek77"/></a>
 </p>
+
+<br>
 
 
 - 🌱 I’m currently learning **React, Data Structures**
