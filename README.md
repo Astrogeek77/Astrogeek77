@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
-<img align="right" src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif?cid=ecf05e47ytteqzghtb3px7e3ewd3uxlg6h9k03ygtnouunjf&rid=giphy.gif&ct=s" width="400px" alt="Developer">
+<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47gitfzbzv8awptxvx4e0neq7trgfhoakrjzzastlm&rid=giphy.gif&ct=s" width="400px" alt="Developer">
 <h1 align="left">I'm Gautam Jain</h1>
 <h3 align="left">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
 
