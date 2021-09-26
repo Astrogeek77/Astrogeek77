@@ -80,7 +80,7 @@
 <p align="center">
   <details>
     <summary><b>🏆 Github Trophies</b></summary>
-    <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=onedark&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy"></p>
+    <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=dark&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy"></p>
   </details>
   <details>	
     <summary><b>⚡ Github Stats</b></summary>
