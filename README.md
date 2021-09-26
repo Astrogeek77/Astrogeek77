@@ -1,13 +1,19 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
-<h1 align="center">I'm Gautam Jain</h1>
+<br>
+<!-- <h1 align="center">I'm Gautam Jain</h1> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&center=true&vCenter=true&lines=I+am+Gautam+Jain;I+am+a+MERN+Developer.;I+am+a+Web+Designer.;I+am+a+Student.">
+</p>
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47gitfzbzv8awptxvx4e0neq7trgfhoakrjzzastlm&rid=giphy.gif&ct=s" width="300px" alt="Developer">
 <h3 align="left">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=astrogeek77&color=1DA1F2&style=for-the-badge" width="180px" alt="astrogeek77" />
+   <a href="https://twitter.com/GautamJ49902907">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/astrogeek77?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/astrogeek77"><img src="https://img.shields.io/github/followers/astrogeek77?label=Follow&style=social" width="130px" alt="astrogeek77"/></a>
 </p>
 
