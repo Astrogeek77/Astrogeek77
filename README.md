@@ -4,7 +4,7 @@
 <br>
 <!-- <h1 align="center">I'm Gautam Jain</h1> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&center=true&vCenter=true&lines=I+am+Gautam+Jain;I+am+a+MERN+Developer.;I+am+a+Web+Designer.;I+am+a+Student.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=E84118&size=30&center=true&vCenter=true&lines=I+am+Gautam+Jain;I+am+a+MERN+Developer.;I+am+a+Web+Designer.;I+am+a+Student.">
 </p>
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47gitfzbzv8awptxvx4e0neq7trgfhoakrjzzastlm&rid=giphy.gif&ct=s" width="300px" alt="Developer">
 <h3 align="left">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
