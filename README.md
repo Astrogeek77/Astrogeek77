@@ -80,19 +80,19 @@
 <p align="center">
   <details>
     <summary><b>🏆 Github Trophies</b></summary>
-    <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=discord&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy"></p>
+    <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=onedark&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy"></p>
   </details>
   <details>	
     <summary><b>⚡ Github Stats</b></summary>
-      <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=astrogeek77&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="astrogeek77" align = "center"/>
+      <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=astrogeek77&hide_border=true&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="astrogeek77" align = "center"/>
   </details>
   <details>
    <summary><b>🔥 Github Streaks</b></summary>
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeek77&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="astrogeek77" /></p>
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeek77&theme=vision-friendly-dark&stroke=0000&background=0D1117&ring=2ecc71&fire=e74c3c&currStreakLabel=2ecc71" alt="astrogeek77" /></p>
   </details>
   <details>
     <summary><b>📊 Github Contribution Graph</b></summary>
-    <p align="center"<a href="#"><img alt="Gautam Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=astrogeek77&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+    <p align="center"<a href="#"><img alt="Gautam Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=astrogeek77&bg_color=0D1117&color=f1c40f&line=e05397&point=FFFFFF&" /></a></p>
   </details>
   <details>
     <summary><b>🔎 Most Commit Language</b></summary>
@@ -102,8 +102,8 @@
     <br>
     <summary><b>⌨ Latest Projects</b></summary>
     <p align="center">
-      <a align="center" href="https://github.com/Astrogeek77/ecommerce-dashboard"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-dashboard"></a>
-      <a align="center"href="https://github.com/Astrogeek77/ecommerce-backend-server" > <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-backend-server"></a>
+      <a align="center" href="https://github.com/Astrogeek77/ecommerce-dashboard"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-dashboard&theme=vision-friendly-dark&show_icons=true"></a>
+      <a align="center"href="https://github.com/Astrogeek77/ecommerce-backend-server" > <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-backend-server&theme=vision-friendly-dark&show_icons=true"></a>
     </p>
   </details>
 </p>
