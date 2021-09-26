@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <br>
-<!-- <h1 align="center">I'm Gautam Jain</h1> -->
+<h1 align="center">My Name is Gautam Jain</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=E84118&size=30&center=true&vCenter=true&lines=I+am+Gautam+Jain;I+am+a+MERN+Developer.;I+am+a+Web+Designer.;I+am+a+Student.">
+  <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=00A8FF&size=30&center=true&vCenter=true&lines=I+am+a+MERN+Developer.;I+am+a+Web+Designer.;I+am+a+Student.;i+am+a+Freelancer."></b>
 </p>
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47gitfzbzv8awptxvx4e0neq7trgfhoakrjzzastlm&rid=giphy.gif&ct=s" width="300px" alt="Developer">
 <h3 align="left">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
@@ -76,11 +76,6 @@
 </p>
 <br>
 
-<!-- <h2 align="center">🏆 My Github Trophies: </h2> 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=discord&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy">
-</p>
-<br> -->
 
 <h2 align="center">📢 My Statistics: </h2> 
 <p align="center">
@@ -105,23 +100,21 @@
     <summary><b>🔎 Most Commit Language</b></summary>
     <p align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrogeek77&theme=github_dark"></p>
   </details>
+  <details>
+    <br>
+    <summary><b>🔎 Latest Projects</b></summary>
+    <p align="center">
+      <a align="center" href="https://github.com/Astrogeek77/ecommerce-dashboard"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-dashboard"></a>
+      <a align="center"href="https://github.com/Astrogeek77/ecommerce-backend-server" > <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-backend-server"></a>
+    </p>
+  </details>
 </p>
 <br>
  <hr>
 <p align="center">
     <b>Take a look at my Projects(some are pinned below) and lets work together.</b><br><br>
-   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
 </p>
 
-<p  align="center">  
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeek77&theme=github_dark" width="80%" alt="github stats"> -->
-<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeek77&theme=onedark_duo" alt="Astrogeek77" /> -->
-  </br>
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=astrogeek77&theme=github_dark"> -->
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astrogeek77&theme=github_dark"> -->
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrogeek77&theme=github_dark"> -->
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=astrogeek77&theme=github_dark"> -->
- </p>
-<!--  -->
 
 
