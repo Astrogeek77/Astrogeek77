@@ -42,8 +42,7 @@
 
 
 <br>
- <h2 align="center">🖥 My Tech Stack: </h2>
-
+<h2 align="center">🖥 My Tech Stack: </h2>
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.learncpp.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F166253%2Fisolated%2Fpreview%2F14bc03b7b1c2c4e2656fd4c0a981cbbc-icono-de-lenguaje-de-programaci--n-cpp-by-vexels.png&f=1&nofb=1" width="45"/> </a>
@@ -85,8 +84,7 @@
   </details>
   <details>	
     <summary><b>⚡ Github Stats</b></summary>
-      <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=astrogeek77&hide_border=true&count_private=true&show_icons=true&theme=radical"      alt="astrogeek77" align = "center"/>
-<!--       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrogeek77&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical"        alt="simran2104" align = "center"/></p> -->
+      <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=astrogeek77&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="astrogeek77" align = "center"/>
   </details>
   <details>
    <summary><b>🔥 Github Streaks</b></summary>
@@ -102,7 +100,7 @@
   </details>
   <details>
     <br>
-    <summary><b>🔎 Latest Projects</b></summary>
+    <summary><b>⌨ Latest Projects</b></summary>
     <p align="center">
       <a align="center" href="https://github.com/Astrogeek77/ecommerce-dashboard"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-dashboard"></a>
       <a align="center"href="https://github.com/Astrogeek77/ecommerce-backend-server" > <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-backend-server"></a>
