@@ -90,7 +90,7 @@
   </details>
   <details>
    <summary><b>🔥 Github Streaks</b></summary>
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeek77&theme=vision-friendly-dark&stroke=0000&background=0D1117&ring=2ecc71&fire=e74c3c&currStreakLabel=2ecc71" alt="astrogeek77" /></p>
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeek77&theme=vision-friendly-dark&stroke=0000&background=0D1117&ring=e74c3c&fire=f1c40f&currStreakLabel=2ecc71" alt="astrogeek77" /></p>
   </details>
   <details>
     <summary><b>📊 Github Contribution Graph</b></summary>
