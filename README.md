@@ -108,6 +108,13 @@
       <a align="center"href="https://github.com/Astrogeek77/ecommerce-backend-server" > <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-backend-server&theme=vision-friendly-dark&show_icons=true"></a>
     </p>
   </details>
+    <details>
+    <br>
+    <summary><b>⌨ Github Contribution Graph</b></summary>
+    <p align="center">
+      <p align="center"> <img src="https://github.com/astrogeek77/astrogeek77/blob/output/github-contribution-grid-snake.svg"></p>
+    </p>
+  </details>
 </p>
 <br>
  <hr>
@@ -115,8 +122,6 @@
     <b>Take a look at my Projects(some are pinned below) and lets work together.</b><br><br>
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
 </p>
-
-  ![Snake animation](https://github.com/astrogeek77/astrogeek77/blob/output/github-contribution-grid-snake.svg)
  
 
 
