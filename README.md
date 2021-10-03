@@ -116,7 +116,7 @@
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
 </p>
 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/astrogeek77/astrogeek77/blob/output/github-contribution-grid-snake.svg)
  
 
 
