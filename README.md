@@ -113,7 +113,7 @@
     <summary><b>⌨ Github Metrics</b></summary>
     <p align="center">
 <!--       <p align="center"> <img src="https://github.com/astrogeek77/astrogeek77/blob/output/github-contribution-grid-snake.svg"></p> -->
-          <p align="center"><img src="https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg" alt="Metrics" width="100%"></p>
+          <p align="center"><img src="https://astrogeek77/astrogeek77/blob/master/github-metrics.svg" alt="Metrics" width="100%"></p>
     </p>
   </details>
 </p>
