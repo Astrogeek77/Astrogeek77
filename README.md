@@ -80,25 +80,37 @@
 
 <h2 align="center">📢 My Statistics: </h2> 
 <p align="center">
+    <details>
+    <br>
+    <summary><b> :star: Github Metrics</b></summary>
+    <p align="center">
+<!--       <p align="center"> <img src="https://github.com/astrogeek77/astrogeek77/blob/output/github-contribution-grid-snake.svg"></p> -->
+          <p align="center"><img src="https://github.com/astrogeek77/astrogeek77/blob/master/github-metrics.svg" alt="Metrics"></p>
+    </p>
+  </details>
   <details>
     <summary><b>🏆 Github Trophies</b></summary>
+    <br>
     <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=astrogeek77&row=2&column=3&theme=gruvbox&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy"></p>
   </details>
   <details>	
     <summary><b>⚡ Github Stats</b></summary>
+      <br>
       <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=astrogeek77&hide_border=true&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="astrogeek77" align = "center"/>
   </details>
   <details>
    <summary><b>🔥 Github Streaks</b></summary>
+    <br>
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeek77&theme=vision-friendly-dark&stroke=0000&background=0D1117&ring=e74c3c&fire=f1c40f&currStreakLabel=2ecc71" alt="astrogeek77" /></p>
   </details>
   <details>
     <summary><b>📊 Github Contribution Graph</b></summary>
+    <br>
     <p align="center"<a href="#"><img alt="Gautam Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=astrogeek77&bg_color=0D1117&color=f1c40f&line=e05397&point=FFFFFF&" /></a></p>
   </details>
   <details>
     <summary><b>🔎 Most Commit Language</b></summary>
-    <p align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrogeek77&theme=github_dark"></p>
+    <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrogeek77&theme=github_dark"></p>
   </details>
   <details>
     <br>
@@ -106,14 +118,6 @@
     <p align="center">
       <a align="center" href="https://github.com/Astrogeek77/ecommerce-dashboard"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-dashboard&theme=vision-friendly-dark&show_icons=true"></a>
       <a align="center"href="https://github.com/Astrogeek77/ecommerce-backend-server" > <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-backend-server&theme=vision-friendly-dark&show_icons=true"></a>
-    </p>
-  </details>
-    <details>
-    <br>
-    <summary><b>⌨ Github Metrics</b></summary>
-    <p align="center">
-<!--       <p align="center"> <img src="https://github.com/astrogeek77/astrogeek77/blob/output/github-contribution-grid-snake.svg"></p> -->
-          <p align="center"><img src="https://astrogeek77/astrogeek77/blob/master/github-metrics.svg" alt="Metrics" width="100%"></p>
     </p>
   </details>
 </p>
