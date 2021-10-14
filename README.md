@@ -13,7 +13,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=astrogeek77&color=1DA1F2&style=for-the-badge" width="170px" alt="astrogeek77" />
    <a href="https://twitter.com/GautamJ49902907">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/astrogeek77?color=1DA1F2&labelColor=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/astrogeek77?color=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
     </a>
   <a href="https://github.com/astrogeek77"><img src="https://img.shields.io/github/followers/astrogeek77?label=Followers&logo=github&Follow&style=for-the-badge" width="150px" alt="astrogeek77"/></a>
   <br>
