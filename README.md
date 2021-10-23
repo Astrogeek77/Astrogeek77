@@ -47,6 +47,7 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.learncpp.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F166253%2Fisolated%2Fpreview%2F14bc03b7b1c2c4e2656fd4c0a981cbbc-icono-de-lenguaje-de-programaci--n-cpp-by-vexels.png&f=1&nofb=1" width="45"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/> </a>
+  <a href="https://svelte.dev/" target="_blank"> <img src="https://media.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/giphy.gif" alt="Svelte" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjaki-jezyk-programowania.pl%2Fimg%2Ftechnologies%2Ftypescript.png&f=1&nofb=1" alt="typescript" width="48" height="48"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -60,8 +61,7 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mementotech.in%2Fassets%2Fimages%2Ficons%2Fexpress.png&f=1&nofb=1" alt="express" width="50" height="48"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif?cid=ecf05e47oloah70byvgsg46d1z6vmt4nqlqtly69yho39vov&rid=giphy.gif&ct=s" alt="Laravel" width="40" height="40"/> </a>
-   
+    <a href="https://laravel.com/" target="_blank"> <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif?cid=ecf05e47oloah70byvgsg46d1z6vmt4nqlqtly69yho39vov&rid=giphy.gif&ct=s" alt="Laravel" width="40" height="40"/> </a>   
 </p>
   
 <h2 align="center">🤝 Reach Me:</h2>
