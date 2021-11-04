@@ -123,11 +123,17 @@
   </details>
 </p>
 <br>
- <hr>
+<hr>
 <p align="center">
     <b>Take a look at my Projects(some are pinned below) and lets work together.</b><br><br>
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
 </p>
+<br>
+ <p align="center"> 
+    <p align="center">Here is a free joke for you!</p>
+    <p align="center"><img align="center" src="https://readme-jokes.vercel.app/api?theme=blue-green" alt="Jokes Card" /></p>
+</p>
+
  
 
 
