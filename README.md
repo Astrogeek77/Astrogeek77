@@ -109,10 +109,10 @@
     <br>
     <p align="center"<a href="#"><img alt="Gautam Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=astrogeek77&bg_color=0D1117&color=f1c40f&line=e05397&point=FFFFFF&" /></a></p>
   </details>
-  <details>
+<!--   <details>
     <summary><b>🔎 Most Commit Language</b></summary>
     <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astrogeek77&theme=github_dark"></p>
-  </details>
+  </details> -->
   <details>
     <br>
     <summary><b>⌨ Latest Projects</b></summary>
