@@ -1,2 +1,20 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.15
+name: Metrics
+on:
+  # Schedule updates
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Personal metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          base: "header, repositories"
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: Europe/Paris
+          config_padding: 10%
