@@ -33,6 +33,13 @@ jobs:
           commits_authoring: lowlighter@users.noreply.github.com        # Surnames or email addresses used to identify your commits
           plugin_followup: yes
           plugin_followup_sections: repositories, user
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+          config_timezone: Asia/Kolkata # Set timezone
 #           plugin_activity: yes
 #           plugin_activity_limit: 2    # Limit to 5 events
 #           plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
