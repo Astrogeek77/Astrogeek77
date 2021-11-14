@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **Web Development and CPP**
 
-- 📫 How to reach me **my mail: astrogeek77@gmail.com and my social handles are available below**
+- 📫 How to reach me **my mail: astrogeek77@outlook.com and my social handles are available below**
 
 - 📄 My Resume is available **[here](https://astrogeek77.github.io/resume/)**.
 
