@@ -53,7 +53,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.shecodes.io%2Fassets%2Flogos%2Ftechnologies%2Fbootstrap-b63cede059eb73dc7036db08fc04826683fce2a3f7a557b40bc68cc3d69b1adb.png&f=1&nofb=1" width="50" </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.43c02f69bf.png" height="50" width="50"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fph-files.imgix.net%2F2e26f07f-e5e5-411e-ba1e-e92c4083bd92.png%3Fauto%3Dformat%26auto%3Dcompress%26codec%3Dmozjpeg%26cs%3Dstrip%26w%3D380%26h%3D380%26fit%3Dmax&f=1&nofb=1" height="50" width="50"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnodejs-logo-vector-png-1-49-2-98-375.png&f=1&nofb=1" width="48" height="48"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fmysql_PNG9.png&f=1&nofb=1" width="50"/> </a>
