@@ -44,5 +44,8 @@ jobs:
 #           plugin_activity_limit: 2    # Limit to 5 events
 #           plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
 #           plugin_activity_filter: all # Show all events (use table above to filter events types)
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.2
+        with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
 
