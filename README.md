@@ -9,7 +9,6 @@
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47gitfzbzv8awptxvx4e0neq7trgfhoakrjzzastlm&rid=giphy.gif&ct=s" width="300px" alt="Developer">
 <h3 align="left">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
 
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=astrogeek77&color=1DA1F2&style=for-the-badge" width="170px" alt="astrogeek77" />
    <a href="https://twitter.com/GautamJ49902907">
@@ -20,7 +19,6 @@
 </p>
 
 <br>
-
 
 - 🌱 I’m currently learning **React, Data Structures**
 
@@ -39,7 +37,6 @@
 - 📄 My Resume is available **[here](https://astrogeek77.github.io/resume/)**.
 
 - ⚡ Fun fact **It’s all 0’s and 1’s.**
-
 
 <br>
 <h2 align="center">🖥 My Tech Stack: </h2>
@@ -76,7 +73,6 @@
 <a href="https://github.com/astrogeek77"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2351%2FPNG%2F512%2Flogo_github_icon_143196.png&f=1&nofb=1" width="40" height="40"></a>
 </p>
 <br>
-
 
 <h2 align="center">📢 My Statistics: </h2> 
 <p align="center">
@@ -115,19 +111,20 @@
   </details> -->
   <details>
     <br>
+    <summary><b>📰 My DEV Card</b></summary>
+    <p align="center">
+      <a href="https://app.daily.dev/Astrogeek77"><img src="https://api.daily.dev/devcards/e5790489707f484fa0a830a36826a21e.png?r=aqx" width="500" alt="Gautam Jain's Dev Card"/></a>
+    </p>
+  </details>
+  <details>
+    <br>
     <summary><b>⌨ Latest Projects</b></summary>
     <p align="center">
       <a align="center" href="https://github.com/Astrogeek77/ecommerce-dashboard"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-dashboard&theme=vision-friendly-dark&show_icons=true"></a>
       <a align="center"href="https://github.com/Astrogeek77/ecommerce-backend-server" > <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-backend-server&theme=vision-friendly-dark&show_icons=true"></a>
     </p>
   </details>
-  <details>
-    <br>
-    <summary><b>📰 My DEV Card</b></summary>
-    <p align="center">
-      <a href="https://app.daily.dev/Astrogeek77"><img src="https://api.daily.dev/devcards/e5790489707f484fa0a830a36826a21e.png?r=aqx" width="500" alt="Gautam Jain's Dev Card"/></a>
-    </p>
-  </details>
+  
   
 <!-- <a href="https://app.daily.dev/Astrogeek77"><img src="https://api.daily.dev/devcards/e5790489707f484fa0a830a36826a21e.png?r=aqx" width="400" alt="Gautam Jain's Dev Card"/></a> -->
 </p>
@@ -142,8 +139,3 @@
     <p align="center">Here is a free joke for you!</p>
     <p align="center"><img align="center" src="https://readme-jokes.vercel.app/api?theme=blue-green" alt="Jokes Card" /></p>
 </p>
-
- 
-
-
-
