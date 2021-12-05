@@ -121,6 +121,15 @@
       <a align="center"href="https://github.com/Astrogeek77/ecommerce-backend-server" > <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=ecommerce-backend-server&theme=vision-friendly-dark&show_icons=true"></a>
     </p>
   </details>
+  <details>
+    <br>
+    <summary><b>📰 My DEV Card</b></summary>
+    <p align="center">
+      <a href="https://app.daily.dev/Astrogeek77"><img src="https://api.daily.dev/devcards/e5790489707f484fa0a830a36826a21e.png?r=aqx" width="500" alt="Gautam Jain's Dev Card"/></a>
+    </p>
+  </details>
+  
+<!-- <a href="https://app.daily.dev/Astrogeek77"><img src="https://api.daily.dev/devcards/e5790489707f484fa0a830a36826a21e.png?r=aqx" width="400" alt="Gautam Jain's Dev Card"/></a> -->
 </p>
 <br>
 <hr>
