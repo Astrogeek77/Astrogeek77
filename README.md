@@ -113,7 +113,7 @@
     <br>
     <summary><b>📰 My DEV Card</b></summary>
     <p align="center">
-      <a href="https://app.daily.dev/Astrogeek77"><img src="https://github.com/astrogeek77/astrogeek77/blob/master/devcard.svg" width="500" alt="Gautam Jain's Dev Card"/></a>
+      <a href="https://app.daily.dev/Astrogeek77"><img src="https://github.com/astrogeek77/astrogeek77/blob/main/devcard.svg" width="500" alt="Gautam Jain's Dev Card"/></a>
     </p>
   </details>
   <details>
