@@ -7,9 +7,9 @@
   <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=00A8FF&size=30&center=true&vCenter=true&lines=I+am+a+MERN+Developer.;I+am+a+Web+Designer.;I+am+a+Student.;i+am+a+Freelancer."></b>
 </p>
 <!-- <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47gitfzbzv8awptxvx4e0neq7trgfhoakrjzzastlm&rid=giphy.gif&ct=s" width="300px" alt="Developer"> -->
-<img align="right" src="https://github.com/astrogeek77/astrogeek77/blob/main/devcard.svg" alt="Gautam Jain's Dev Card" width="400px"/>
-<h3 align="left">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
 
+<h3 align="left">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
+<img align="right" src="https://github.com/astrogeek77/astrogeek77/blob/main/devcard.svg" alt="Gautam Jain's Dev Card" width="400px"/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=astrogeek77&color=1DA1F2&style=for-the-badge" width="170px" alt="astrogeek77" />
    <a href="https://twitter.com/GautamJ49902907">
@@ -39,6 +39,7 @@
 
 - ⚡ Fun fact **It’s all 0’s and 1’s.**
 
+<br>
 <br>
 <h2 align="center">🖥 My Tech Stack: </h2>
 <p align="center"> 
