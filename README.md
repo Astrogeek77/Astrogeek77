@@ -113,9 +113,18 @@
   </details> -->
   <details>
     <br>
-    <summary><b>📰 My DEV Card</b></summary>
+    <summary><b>📰 My Favourite Languages</b></summary>
     <p align="center">
-      <a href="https://app.daily.dev/Astrogeek77"><img src="https://github.com/astrogeek77/astrogeek77/blob/main/devcard.svg" width="500" alt="Gautam Jain's Dev Card"/></a>
+<!--       <a href="https://app.daily.dev/Astrogeek77"><img src="https://github.com/astrogeek77/astrogeek77/blob/main/devcard.svg" width="500" alt="Gautam Jain's Dev Card"/></a> -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeek77&layout=compact" width="500">
+    </p>
+  </details>
+  
+  <details>
+    <br>
+    <summary><b>📰 My WakaStats</b></summary>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=astrogeek77" width="500">
     </p>
   </details>
   <details>
