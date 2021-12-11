@@ -45,6 +45,13 @@ jobs:
 #           plugin_activity_limit: 2    # Limit to 5 events
 #           plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
 #           plugin_activity_filter: all # Show all events (use table above to filter events types)
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+          plugin_wakatime_days: 7                                   # Display last week stats
+          plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+          plugin_wakatime_url: https://wakatime.com                 # Wakatime url endpoint
+          plugin_wakatime_user: .user.login                         # User
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
