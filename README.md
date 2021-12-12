@@ -10,6 +10,8 @@
 
 <h3 align="left">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
 <img align="right" src="https://github.com/astrogeek77/astrogeek77/blob/main/devcard.svg" alt="Gautam Jain's Dev Card" width="400px"/>
+<br>
+<br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=astrogeek77&color=1DA1F2&style=for-the-badge" width="170px" alt="astrogeek77" />
    <a href="https://twitter.com/GautamJ49902907">
