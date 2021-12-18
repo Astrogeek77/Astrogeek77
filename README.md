@@ -126,21 +126,31 @@
     <br>
     <summary><b>⏲ My WakaStats</b></summary>
           <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->      
-  </details>
-  <br>
-  <details>
-    <br>
-    <summary><b>⌨ Latest Projects</b></summary>
-    <p align="center">
-      <a align="center" href="https://github.com/Astrogeek77/next-calculator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=next-calculator&theme=vision-friendly-dark&show_icons=true"></a>
-      <br>
-      <br>
-      <a align="center"href="https://github.com/Astrogeek77/Expense-Tracker-App" > <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=Expense-Tracker-App&theme=vision-friendly-dark&show_icons=true"></a>
-    </p>
-  </details>
-  
-   <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JSX                      4 hrs 52 mins       ███████████████░░░░░░░░░░   61.36% 
+C++                      2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.76% 
+PHP                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.37% 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+
+🔥 Editors: 
+VS Code                  7 hrs 55 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+TNP-WEBSITE              5 hrs 39 mins       █████████████████░░░░░░░░   71.24% 
+Practicals               2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.76%
+
+💻 Operating System: 
+Windows                  7 hrs 55 mins       █████████████████████████   100.0%
+
+```
+
+
 <!--END_SECTION:waka--> 
   
   
