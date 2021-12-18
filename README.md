@@ -134,6 +134,8 @@
     <summary><b>⌨ Latest Projects</b></summary>
     <p align="center">
       <a align="center" href="https://github.com/Astrogeek77/next-calculator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=next-calculator&theme=vision-friendly-dark&show_icons=true"></a>
+      <br>
+      <br>
       <a align="center"href="https://github.com/Astrogeek77/Expense-Tracker-App" > <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=Expense-Tracker-App&theme=vision-friendly-dark&show_icons=true"></a>
     </p>
   </details>
