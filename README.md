@@ -96,7 +96,7 @@
   <details>	
     <summary><b>⚡ Github Stats</b></summary>
       <br>
-      <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=astrogeek77&hide_border=true&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="astrogeek77" align = "center"/>
+      <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=astrogeek77&show_icons=true&theme=vision-friendly-dark" alt="astrogeek77" align = "center"/>
   </details>
   <details>
    <summary><b>🔥 Github Streaks</b></summary>
