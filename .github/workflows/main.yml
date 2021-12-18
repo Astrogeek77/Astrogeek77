@@ -68,4 +68,9 @@ jobs:
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
           plugin_achievements_ignored: octonaut # Hide "octonaut" achievement
           plugin_achievements_only: explorer    # Display only "explorer" achievement (don't use with "ignored" option)
+      - name: Waka Readme
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
