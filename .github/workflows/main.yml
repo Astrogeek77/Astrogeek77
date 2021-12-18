@@ -73,4 +73,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          SHOW_PROFILE_VIEWS: false
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_SHORT_INFO: false
+          SHOW_LOC_CHART: false
+          COMMIT_BY_ME: true
+          SHOW_UPDATED_DATE: false
+          SHOW_COMMIT: false
 
