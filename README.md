@@ -126,7 +126,34 @@
     <br>
     <summary><b>⏲ My WakaStats</b></summary>
           <!--START_SECTION:waka-->
-          <!--END_SECTION:waka--> 
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%208%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JSX                      3 hrs 54 mins       ██████████████░░░░░░░░░░░   56.6% 
+C++                      2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.02% 
+PHP                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+
+🔥 Editors: 
+VS Code                  6 hrs 54 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+TNP-WEBSITE              4 hrs 37 mins       ████████████████░░░░░░░░░   66.98% 
+Practicals               2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.02%
+
+💻 Operating System: 
+Windows                  6 hrs 54 mins       █████████████████████████   100.0%
+
+```
+
+
+<!--END_SECTION:waka--> 
   </details>
   
 <!-- <a href="https://app.daily.dev/Astrogeek77"><img src="https://api.daily.dev/devcards/e5790489707f484fa0a830a36826a21e.png?r=aqx" width="400" alt="Gautam Jain's Dev Card"/></a> -->
