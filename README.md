@@ -126,7 +126,9 @@
     <br>
     <summary><b>⏲ My WakaStats</b></summary>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=astrogeek77" width="500">
+<!--         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=astrogeek77" width="500"> -->
+        <!--START_SECTION:waka-->
+        <!--END_SECTION:waka-->
     </p>
   </details>
   <details>
