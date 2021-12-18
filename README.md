@@ -125,7 +125,6 @@
   <details>
     <br>
     <summary><b>⏲ My WakaStats</b></summary>
-       <p align="center">
           <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%208%20mins-blue)
 
@@ -155,7 +154,6 @@ Windows                  7 hrs 55 mins       ███████████�
 
 
 <!--END_SECTION:waka-->      
-        </p>
   </details>
   <br>
   <details>
