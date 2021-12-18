@@ -80,4 +80,7 @@ jobs:
           COMMIT_BY_ME: true
           SHOW_UPDATED_DATE: false
           SHOW_COMMIT: false
+          SHOW_TITLE: true
+          COMMIT_MESSAGE: Updated the Readme
+          
 
