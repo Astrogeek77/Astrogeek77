@@ -12,12 +12,13 @@
 <img align="right" src="https://github.com/astrogeek77/astrogeek77/blob/main/devcard.svg" alt="Gautam Jain's Dev Card" width="400px"/>
 <br>
 <br>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=astrogeek77&color=1DA1F2&style=for-the-badge" width="170px" alt="astrogeek77" />
+<p align="left" height="25">
+  
+  <img src="https://komarev.com/ghpvc/?username=Astrogeek77&label=Visitors+Count&color=1DA1F2"  alt="astrogeek77" height="25" width="150" />
    <a href="https://twitter.com/GautamJ49902907">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/astrogeek77?color=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/astrogeek77?color=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" height="25" width="150"/>
     </a>
-  <a href="https://github.com/astrogeek77"><img src="https://img.shields.io/github/followers/astrogeek77?label=Followers&logo=github&Follow&style=for-the-badge" width="150px" alt="astrogeek77"/></a>
+  <a href="https://github.com/astrogeek77"><img src="https://img.shields.io/github/followers/astrogeek77?label=Followers&logo=github&Follow&style=for-the-badge" height="25" width="150" alt="astrogeek77"/></a>
   <br>
 </p>
 
@@ -42,6 +43,9 @@
 - ⚡ Fun fact **It’s all 0’s and 1’s.**
 
 <br>
+<p align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
 <br>
 <h2 align="center">🖥 My Tech Stack: </h2>
 <p align="center"> 
@@ -142,3 +146,23 @@
     <p align="center">Here is a free joke for you!</p>
     <p align="center"><img align="center" src="https://readme-jokes.vercel.app/api?theme=blue-green" alt="Jokes Card" /></p>
 </p>
+
+
+
+
+
+<!-- # 💻Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) -->
+
+<!-- ## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Astrogeek77&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+
+---
+![]()
+
