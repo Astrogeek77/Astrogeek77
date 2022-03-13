@@ -13,7 +13,7 @@
 <br>
 <br>
 <p align="left" height="25">
-  
+  <br>
   <img src="https://komarev.com/ghpvc/?username=Astrogeek77&label=Visitors+Count&color=1DA1F2"  alt="astrogeek77" height="25" width="150" />
    <a href="https://twitter.com/GautamJ49902907">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/astrogeek77?color=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" height="25" width="150"/>
