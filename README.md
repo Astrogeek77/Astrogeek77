@@ -62,7 +62,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://cdn.svgporn.com/logos/python.svg" width="70" height="100"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="70" height="100"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/mysql.svg" width="70" height="100"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="70" height="100"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="mongodb" width="100" height="100"/> </a> 
 <!--     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>    -->
     <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="70" height="100"/> </a> 
 <!--     <a href="https://expressjs.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mementotech.in%2Fassets%2Fimages%2Ficons%2Fexpress.png&f=1&nofb=1" alt="express" width="50" height="48"/> </a> -->
