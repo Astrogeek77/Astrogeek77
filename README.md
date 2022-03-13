@@ -47,38 +47,39 @@
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 <br>
-<h2 align="center">🖥 My Tech Stack: </h2>
+<h2 align="center">🖥 Technologies i have worked with: </h2>
 <p align="center"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.learncpp.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F166253%2Fisolated%2Fpreview%2F14bc03b7b1c2c4e2656fd4c0a981cbbc-icono-de-lenguaje-de-programaci--n-cpp-by-vexels.png&f=1&nofb=1" width="45"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/> </a>
-  <a href="https://svelte.dev/" target="_blank"> <img src="https://media.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/giphy.gif" alt="Svelte" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjaki-jezyk-programowania.pl%2Fimg%2Ftechnologies%2Ftypescript.png&f=1&nofb=1" alt="typescript" width="48" height="48"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.shecodes.io%2Fassets%2Flogos%2Ftechnologies%2Fbootstrap-b63cede059eb73dc7036db08fc04826683fce2a3f7a557b40bc68cc3d69b1adb.png&f=1&nofb=1" width="50" </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fph-files.imgix.net%2F2e26f07f-e5e5-411e-ba1e-e92c4083bd92.png%3Fauto%3Dformat%26auto%3Dcompress%26codec%3Dmozjpeg%26cs%3Dstrip%26w%3D380%26h%3D380%26fit%3Dmax&f=1&nofb=1" height="50" width="50"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://nodejs.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnodejs-logo-vector-png-1-49-2-98-375.png&f=1&nofb=1" width="48" height="48"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fmysql_PNG9.png&f=1&nofb=1" width="50"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fmongodb-png--770.png&f=1&nofb=1" alt="mongodb" width="60" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mementotech.in%2Fassets%2Fimages%2Ficons%2Fexpress.png&f=1&nofb=1" alt="express" width="50" height="48"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif?cid=ecf05e47oloah70byvgsg46d1z6vmt4nqlqtly69yho39vov&rid=giphy.gif&ct=s" alt="Laravel" width="40" height="40"/> </a>   
+<!--     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
+    <a href="https://www.learncpp.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="70" height="100"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.svgporn.com/logos/react.svg" width="70" height="100"/> </a>
+<!--   <a href="https://svelte.dev/" target="_blank"> <img src="https://media.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/giphy.gif" alt="Svelte" width="40" height="40"/> </a> -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.svgporn.com/logos/javascript.svg" width="70" height="100"/> </a> 
+<!--     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjaki-jezyk-programowania.pl%2Fimg%2Ftechnologies%2Ftypescript.png&f=1&nofb=1" alt="typescript" width="48" height="48"/> </a> -->
+<!--     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>  -->
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.svgporn.com/logos/css-3.svg" width="70" height="100"/> </a> 
+<!--     <a href="https://getbootstrap.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.shecodes.io%2Fassets%2Flogos%2Ftechnologies%2Fbootstrap-b63cede059eb73dc7036db08fc04826683fce2a3f7a557b40bc68cc3d69b1adb.png&f=1&nofb=1" width="50" </a>  -->
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" width="70" height="100"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://cdn.svgporn.com/logos/python.svg" width="70" height="100"/> </a> 
+    <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="70" height="100"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/mysql.svg" width="70" height="100"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="70" height="100"/> </a> 
+<!--     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>    -->
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="70" height="100"/> </a> 
+<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mementotech.in%2Fassets%2Fimages%2Ficons%2Fexpress.png&f=1&nofb=1" alt="express" width="50" height="48"/> </a> -->
+<!--     <a href="https://laravel.com/" target="_blank"> <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif?cid=ecf05e47oloah70byvgsg46d1z6vmt4nqlqtly69yho39vov&rid=giphy.gif&ct=s" alt="Laravel" width="40" height="40"/> </a>    -->
 </p>
   
 <h2 align="center">🤝 Reach Me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/gautam-jain-587675193/"><img src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo.png" width="40"></a>
-<a href="mailto:astrogeek77@gmail.com"><img src="https://media.giphy.com/media/iPRtIf0OlGlSnNfV7W/giphy.gif" width="50" height="50"></a>
-<a href="https://reddit.com/user/astrogeeek77" ><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FJ41hsV2swVteoeB8pDhqbQR3H83NrEBFv2q_kYdq1xp9vsI1Gz9A9pzjcwX_JrZpPGsa%3Dw300&f=1&nofb=1" width="40"></a>
-<a href="https://www.instagram.com/astrogeek77/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Finstagram-clipart-logo-1.png&f=1&nofb=1" width="40"></a>
-<a href="https://twitter.com/GautamJ49902907"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.idownloadblog.com%2Fwp-content%2Fuploads%2F2015%2F11%2FTwitter-bird-logo-medium.png&f=1&nofb=1" width="40"></a>
-<a  href="https://wa.me/919877663895?text=Hi%20Gautam"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F5b%2Fe5%2Ffb%2F5be5fbcb55c0d12f61f03fd603c2ddd2.png&f=1&nofb=1" width="40"></a>
-<a  href="https://t.me/astrogeek77"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Ftelegram-logo-png-telegram-png-images-free-img-512x512.png&f=1&nofb=1" width="40" height="40"></a> 
-<a href="https://github.com/astrogeek77"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2351%2FPNG%2F512%2Flogo_github_icon_143196.png&f=1&nofb=1" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/astrogeek77/"><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="70" height="100"></a>
+<a href="mailto:astrogeek77@gmail.com"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="70" height="100"></a>
+<a href="mailto:astrogeek77@outlook.com"><img src="https://img.icons8.com/plasticine/400/000000/microsoft-outlook-2019.png" width="100" height="100"></a>
+<a href="https://reddit.com/user/astrogeeek77" ><img src="https://cdn.svgporn.com/logos/reddit-icon.svg" width="70" height="100"></a>
+<!-- <a href="https://www.instagram.com/astrogeek77/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Finstagram-clipart-logo-1.png&f=1&nofb=1" width="40"></a> -->
+<a href="https://twitter.com/GautamJ49902907"><img src="https://cdn.svgporn.com/logos/twitter.svg" width="70" height="100"></a>
+<a  href="https://wa.me/919877663895?text=Hi%20Gautam"><img src="https://cdn.svgporn.com/logos/whatsapp.svg" width="70" height="100"></a>
+<a  href="https://t.me/astrogeek77"><img src="https://cdn.svgporn.com/logos/telegram.svg" width="70" height="100"></a> 
+<a href="https://github.com/astrogeek77"><img src="https://cdn.svgporn.com/logos/github-octocat.svg" width="70" height="100"></a>
 </p>
 <br>
 
