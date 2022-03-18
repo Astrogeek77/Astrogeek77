@@ -65,8 +65,9 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="mongodb" width="100" height="100"/> </a> 
 <!--     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>    -->
     <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="70" height="100"/> </a> 
-<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mementotech.in%2Fassets%2Fimages%2Ficons%2Fexpress.png&f=1&nofb=1" alt="express" width="50" height="48"/> </a> -->
+<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.svgporn.com/logos/express.svg" alt="express" width="70" height="100"/> </a> -->
 <!--     <a href="https://laravel.com/" target="_blank"> <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif?cid=ecf05e47oloah70byvgsg46d1z6vmt4nqlqtly69yho39vov&rid=giphy.gif&ct=s" alt="Laravel" width="40" height="40"/> </a>    -->
+     <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="70" height="100" /> </a>   
 </p>
   
 <h2 align="center">🤝 Reach Me:</h2>
@@ -80,6 +81,8 @@
 <a  href="https://wa.me/919877663895?text=Hi%20Gautam"><img src="https://cdn.svgporn.com/logos/whatsapp.svg" width="70" height="100"></a>
 <a  href="https://t.me/astrogeek77"><img src="https://cdn.svgporn.com/logos/telegram.svg" width="70" height="100"></a> 
 <a href="https://github.com/astrogeek77"><img src="https://cdn.svgporn.com/logos/github-octocat.svg" width="70" height="100"></a>
+<a href="https://dev.to/astrogeek77"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" width="70" height="100"></a>
+<a href="https://hashnode.com/@Astrogeek77"><img src="https://cdn.svgporn.com/logos/hashnode-icon.svg" width="70" height="100"></a> 
 </p>
 <br>
 
