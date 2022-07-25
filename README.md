@@ -1,9 +1,15 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
+<br>
 <div align="center">
-  <img src="https://i.ibb.co/nn1rvNM/Simple-Details-Monochrome-Hello-Let-s-Connect-Linked-In-Banner.png" align="center"/>
+  <img src="https://i.ibb.co/1GwbN8c/GAUTAM-JAIN-1.png" align="center"/>
 </div>
+<!--
+  <div align="center">
+    <img src="https://i.ibb.co/nn1rvNM/Simple-Details-Monochrome-Hello-Let-s-Connect-Linked-In-Banner.png" align="center"/>
+  </div>
+-->
 <br>
 <h1 align="center">My Name is Gautam Jain</h1>
 <p align="center">
