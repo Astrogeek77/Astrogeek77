@@ -76,7 +76,8 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="70" height="100"/> </a> 
 <!--     <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.svgporn.com/logos/express.svg" alt="express" width="70" height="100"/> </a> -->
 <!--     <a href="https://laravel.com/" target="_blank"> <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif?cid=ecf05e47oloah70byvgsg46d1z6vmt4nqlqtly69yho39vov&rid=giphy.gif&ct=s" alt="Laravel" width="40" height="40"/> </a>    -->
-     <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="70" height="100" /> </a>   
+     <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="70" height="100" /> </a>
+     <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="NextJs" width="70" height="100" /> </a>
 </p>
   
 <h2 align="center">🤝 Reach Me:</h2>
