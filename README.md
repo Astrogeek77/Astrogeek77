@@ -153,6 +153,7 @@
 <hr>
 <p align="center">
     <b>Take a look at my Projects(some are pinned below) and lets work together.</b><br><br>
+    <div width="100%" align="center"><a href="https://github.com/astrogeek77/custom-react-hooks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=custom-react-hooks&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a>
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
 </p>
 <br>
@@ -161,7 +162,9 @@
     <p align="center"><img align="center" src="https://readme-jokes.vercel.app/api?theme=blue-green" alt="Jokes Card" /></p>
 </p>
 
+<!-- FOLLOWER-LIST:START -->
 
+<!-- FOLLOWER-LIST:END -->
 
 
 
