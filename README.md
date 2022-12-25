@@ -152,10 +152,36 @@
 <br>
 <hr>
 <p align="center">
-    <b>Take a look at my Projects(some are pinned below) and lets work together.</b><br><br>
-    <div width="100%" align="center"><a href="https://github.com/astrogeek77/custom-react-hooks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=custom-react-hooks&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a>
-   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
+    <b>Take a look at my Projects(others are pinned below) and lets work together. Kudos</b><br><br>
+    <details width="100%" align="center">
+      <summary>My Highlighted Repos</summary>
+      <a href="https://github.com/astrogeek77/custom-react-hooks" width="100%" align="center">
+        <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=custom-react-hooks&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>
+      <br>
+      <br>
+      <a href="https://github.com/Astrogeek77/DSALGO-and-CP" width="100%" align="center">
+        <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=DSALGO-and-CP&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>
+      <br>
+      <br>
+      <a href="https://github.com/astrogeek77/Daily_Coding_Challenge_2021" width="100%" align="center">
+        <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=Daily_Coding_Challenge_2021&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>
+      <br>
+      <br>
+      <a href="https://github.com/astrogeek77/Astrogeek77.github.io" width="100%" align="center">
+        <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=Astrogeek77.github.io&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>
+    </details>
 </p>
+<br>
+<br>
+ <p align="center">
+    <a href="https://www.buymeacoffee.com/astrogeek77"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a>
+    <br>
+    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
+ </p>
 <br>
  <p align="center"> 
     <p align="center">Here is a free joke for you!</p>
