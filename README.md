@@ -123,9 +123,10 @@
 <!--   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeek77&theme=ads-juicy-fresh&stroke=ffffff&background=0D1117" alt="astrogeek77" /></p> -->
   </details>
   <details>
-    <summary><b>📊 Github Contribution Graph</b></summary>
+    <summary><b>📊 Github Contributions Graph</b></summary>
     <br>
-    <p align="center"<a href="#"><img alt="Gautam Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=astrogeek77&bg_color=0D1117&color=f1c40f&line=e05397&point=FFFFFF&" /></a></p>
+<!--     <p align="center"<a href="#"><img alt="Gautam Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=astrogeek77&bg_color=0D1117&color=f1c40f&line=e05397&point=FFFFFF&" /></a></p> -->
+    <p align="center"<a href="#"><img alt="Gautam Jain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=astrogeek77&theme=react-dark" /></a></p>
   </details>
 <!--   <details>
     <summary><b>🔎 Most Commit Language</b></summary>
