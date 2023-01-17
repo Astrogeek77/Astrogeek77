@@ -24,7 +24,7 @@ jobs:
           yarn
           sudo npm i -g ts-node
       - name: Update README
-        run: ts-node src/app.ts ${{ secrets.TOKEN }}
+        run: ts-node src/app.ts ${{ secrets.METRICS_TOKEN }}
 
       - name: Commit changes
         run: |
