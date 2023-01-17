@@ -114,7 +114,7 @@
   <details>	
     <summary><b>⚡ Github Stats</b></summary>
       <br>
-      <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=astrogeek77&show_icons=true&theme=vision-friendly-dark" alt="astrogeek77" align = "center"/>
+      <p align="center"><img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=astrogeek77&show_icons=true&theme=vision-friendly-dark" alt="astrogeek77" align = "center"/>
   </details>
   <details>
    <summary><b>🔥 Github Streaks</b></summary>
@@ -137,7 +137,7 @@
     <summary><b>📰 My Favourite Languages</b></summary>
     <p align="center">
 <!--       <a href="https://app.daily.dev/Astrogeek77"><img src="https://github.com/astrogeek77/astrogeek77/blob/main/devcard.svg" width="500" alt="Gautam Jain's Dev Card"/></a> -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeek77&hide=html,tex&langs_count=6&layout=compact" width="500">
+        <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=astrogeek77&hide=html,tex&langs_count=6" width="500">
     </p>
   </details>
   
@@ -157,22 +157,22 @@
     <details width="100%" align="center">
       <summary>My Highlighted Repos</summary>
       <a href="https://github.com/astrogeek77/custom-react-hooks" width="100%" align="center">
-        <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=custom-react-hooks&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="center"  src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=astrogeek77&repo=custom-react-hooks&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
       </a>
       <br>
       <br>
       <a href="https://github.com/Astrogeek77/DSALGO-and-CP" width="100%" align="center">
-        <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=DSALGO-and-CP&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="center"  src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=astrogeek77&repo=DSALGO-and-CP&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
       </a>
       <br>
       <br>
       <a href="https://github.com/astrogeek77/Daily_Coding_Challenge_2021" width="100%" align="center">
-        <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=Daily_Coding_Challenge_2021&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="center"  src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=astrogeek77&repo=Daily_Coding_Challenge_2021&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
       </a>
       <br>
       <br>
       <a href="https://github.com/astrogeek77/Astrogeek77.github.io" width="100%" align="center">
-        <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeek77&repo=Astrogeek77.github.io&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="center"  src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=astrogeek77&repo=Astrogeek77.github.io&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
       </a>
     </details>
 </p>
