@@ -108,14 +108,6 @@
   </details>
   <details>
     <br>
-    <summary><b>🎇 Github Metrics - 2</b></summary>
-    <p align="center">
-<!--       <p align="center"> <img src="https://github.com/astrogeek77/astrogeek77/blob/output/github-contribution-grid-snake.svg"></p> -->
-          <p align="center"><img src="https://metrics.lecoq.io/astrogeek77?template=markdown&languages=3&achievements=1%C2%ACable=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0%C2%ACable.from=organization%C2%ACable.repositories=false%C2%ACable.indepth=false%C2%ACable.types=commit&config.timezone=America%2FNew%20York" alt="Metrics"></p>
-    </p>
-  </details>
-  <details>
-    <br>
     <summary><b>💪 Productivity</b></summary>
     <p align="center">
 <!--       <p align="center"> <img src="https://github.com/astrogeek77/astrogeek77/blob/output/github-contribution-grid-snake.svg"></p> -->
@@ -222,8 +214,5 @@
 
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
-
----
-![]()
+<img src="https://random-memer.herokuapp.com/" width="512px" height="400px"/>
 
