@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://i.ibb.co/1GwbN8c/GAUTAM-JAIN-1.png" align="center"/>
+  <img src="https://github.com/Astrogeek77/Astrogeek77/blob/main/banners/banner-dark-2.png?raw=true" align="center"/>
 </div>
 <!--
   <div align="center">
@@ -13,43 +13,42 @@
 <br>
 <h1 align="center">My Name is Gautam Jain</h1>
 <p align="center">
-  <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=00A8FF&size=30&center=true&vCenter=true&lines=I+am+a+MERN+Developer.;I+am+a+Web+Designer.;I+am+a+Student.;i+am+a+Freelancer."></b>
+<!--   <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=00A8FF&size=30&center=true&vCenter=true&lines=I+am+a+MERN+Developer.;I+am+a+Web+Designer.;I+am+a+Student.;i+am+a+Freelancer."></b> -->
+<b><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&duration=8000&pause=1000&center=true&width=435&lines=CSE+MAJOR;Aspiring+Software+Engineer;Web+Developer;Java+Developer;Flutter+Developer;Blogger;Astronomy+Geek;Tech+Enthusiast;Looking+for+SDE+Roles"></b>  
 </p>
 <!-- <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47gitfzbzv8awptxvx4e0neq7trgfhoakrjzzastlm&rid=giphy.gif&ct=s" width="300px" alt="Developer"> -->
 
-<h3 align="left">A Passionate Fullstack developer from Punjab, India. i have Interests in Space 🌌, Tech 🤖and like Reading Books 📚.</h3>
+<h3 align="left">A Full Stack MERN Developer and a Aspiring Software Engineer, currently in my final year(2023 Batch) as a student pursuing B.Tech In Computer Science at Guru Nanak Dev Engineering College, Ludhiana. I am learning new data structures while reinforcing my past knowledge and improving my knowledge of software developer concepts. Actively Looking for SDE and SDE-Intern Roles.</h3>
 <img align="right" src="https://github.com/astrogeek77/astrogeek77/blob/main/devcard.svg" alt="Gautam Jain's Dev Card" width="400px"/>
 <br>
 <br>
 <p align="left" height="25">
   <br>
   <img src="https://komarev.com/ghpvc/?username=Astrogeek77&label=Visitors+Count&color=1DA1F2"  alt="astrogeek77" height="25" width="150" />
-   <a href="https://twitter.com/GautamJ49902907">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/astrogeek77?color=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" height="25" width="150"/>
-    </a>
+<!--    <a href="https://x.com/GautamJ49902907">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/x/follow/astrogeek77?color=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" height="25" width="150"/>
+    </a> -->
   <a href="https://github.com/astrogeek77"><img src="https://img.shields.io/github/followers/astrogeek77?label=Followers&logo=github&Follow&style=for-the-badge" height="25" width="150" alt="astrogeek77"/></a>
   <br>
 </p>
 
 <br>
 
-- 🌱 I’m currently learning **React, Data Structures**
+- 🌱 I’m currently learning **Java, Flutter and Advance Data Structures**.
 
-- 👯 I’m looking to collaborate on **Web Development Projects, Python Projects**
+- 👯 My Portfolio at [Website](https://icodergautam-portfolio.netlify.app) and Resume at [Resume Showcase](https://icodergautam-portfolio.netlify.app/resume_showcase).
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms, Competitive Programming**
+- 🤝 I’m looking for help with **Data Structures and Algorithms, Competitive Programming**.
 
-- 👓💻 All of my projects are available at [My_Portfolio](https://astrogeek77.github.io/portfolio/)
+- 👓💻 All of my projects are available at [Project Showcase](https://icodergautam-portfolio.netlify.app/project_showcase).
 
-- 👥 My Partners in crime **[Avninder Preet Singh](https://github.com/Avninder99) and [Konark Lohat](https://github.com/LastComrade)**
+- 💬 Ask me about **Web Development, Mobile Development, Data Structures, Java and CP**.
 
-- 💬 Ask me about **Web Development and CPP**
+- 📫 How to reach me **my mail: igautamjain12345@gmail.com and My Social Linktree at [Web Linktree](https://icodergautam-portfolio.netlify.app/web_linktree)**.
 
-- 📫 How to reach me **my mail: astrogeek77@outlook.com and my social handles are available below**
+- 📄 My PDF Resume is available **[Google Drive Link]([https://astrogeek77.github.io/resume/](https://drive.google.com/file/d/1ryCKxdZViDq0htG9vXanOioXiD3i6el8/view?usp=sharing))**.
 
-- 📄 My Resume is available **[here](https://astrogeek77.github.io/resume/)**.
-
-- ⚡ Fun fact **It’s all 0’s and 1’s.**
+- ⚡ Fun fact **After all it’s all 0’s and 1’s.**
 
 <br>
 <p align="center">
@@ -58,7 +57,7 @@
 <br>
 <h2 align="center">🖥 Technologies i have worked with: </h2>
 <p align="center"> 
-<!--     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
+    <a href="https://www.java.com" target="_blank"> <img src="https://cdn.svgporn.com/logos/java.svg" width="100" height="100"/> </a>
     <a href="https://www.learncpp.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="70" height="100"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.svgporn.com/logos/react.svg" width="70" height="100"/> </a>
 <!--   <a href="https://svelte.dev/" target="_blank"> <img src="https://media.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/giphy.gif" alt="Svelte" width="40" height="40"/> </a> -->
@@ -135,7 +134,9 @@
     <summary><b>📊 Github Contributions Graph</b></summary>
     <br>
 <!--     <p align="center"<a href="#"><img alt="Gautam Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=astrogeek77&bg_color=0D1117&color=f1c40f&line=e05397&point=FFFFFF&" /></a></p> -->
-    <p align="center"<a href="#"><img alt="Gautam Jain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=astrogeek77&theme=react-dark" /></a></p>
+    <p align="center"<a href="#"><img alt="Gautam Jain's Activity Graph" src="https://github.com/Astrogeek77/Astrogeek77/assets/54165628/8512d558-2a8e-4c44-8c5e-d0798160a56f" /></a></p>
+![image]()
+
   </details>
 <!--   <details>
     <summary><b>🔎 Most Commit Language</b></summary>
@@ -162,7 +163,7 @@
 <br>
 <hr>
 <p align="center">
-    <b>Take a look at my Projects(others are pinned below) and lets work together. Kudos</b><br><br>
+    <b>Take a look at my  <a href="https://icodergautam-portfolio.netlify.app/project_showcase">Projects</a>, my highlighted, pinned repos and lets work together. Kudos</b><br><br>
     <details width="100%" align="center">
       <summary>My Highlighted Repos</summary>
       <a href="https://github.com/astrogeek77/custom-react-hooks" width="100%" align="center">
@@ -180,8 +181,13 @@
       </a>
       <br>
       <br>
-      <a href="https://github.com/astrogeek77/Astrogeek77.github.io" width="100%" align="center">
-        <img align="center"  src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=astrogeek77&repo=Astrogeek77.github.io&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+      <a href="https://github.com/Astrogeek77/Web_Dev_2023" width="100%" align="center">
+        <img align="center"  src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=astrogeek77&repo=Web_Dev_2023&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>
+       <br>
+      <br>
+      <a href="https://github.com/Astrogeek77/custom_web_components" width="100%" align="center">
+        <img align="center"  src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=astrogeek77&repo=custom_web_components&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
       </a>
     </details>
 </p>
