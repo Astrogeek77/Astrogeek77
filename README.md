@@ -46,7 +46,7 @@
 
 - 📫 How to reach me **my mail: igautamjain12345@gmail.com and My Social Linktree at [Web Linktree](https://icodergautam-portfolio.netlify.app/web_linktree)**.
 
-- 📄 My PDF Resume is available **[Google Drive Link]([https://astrogeek77.github.io/resume/](https://drive.google.com/file/d/1ryCKxdZViDq0htG9vXanOioXiD3i6el8/view?usp=sharing))**.
+- 📄 My PDF Resume is available **[Google Drive Link](https://drive.google.com/file/d/1ryCKxdZViDq0htG9vXanOioXiD3i6el8/view?usp=sharing)**.
 
 - ⚡ Fun fact **After all it’s all 0’s and 1’s.**
 
