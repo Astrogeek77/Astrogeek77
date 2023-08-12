@@ -82,7 +82,7 @@
 <h2 align="center">🤝 Reach Me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/astrogeek77/"><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="70" height="100"></a>
-<a href="mailto:astrogeek77@gmail.com"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="70" height="100"></a>
+<a href="mailto:igautamjain12345@gmail.com"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="70" height="100"></a>
 <a href="mailto:astrogeek77@outlook.com"><img src="https://img.icons8.com/plasticine/400/000000/microsoft-outlook-2019.png" width="100" height="100"></a>
 <a href="https://reddit.com/user/astrogeeek77" ><img src="https://cdn.svgporn.com/logos/reddit-icon.svg" width="70" height="100"></a>
 <!-- <a href="https://www.instagram.com/astrogeek77/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartart.com%2Fimages%2Finstagram-clipart-logo-1.png&f=1&nofb=1" width="40"></a> -->
