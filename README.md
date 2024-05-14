@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/Astrogeek77/Astrogeek77/blob/main/banners/banner-git-3.png" align="center"/>
+  <img src="https://github.com/Astrogeek77/Astrogeek77/blob/main/banners/New Banners - may 2024/Gautam Jain (4).png" align="center"/>
 </div>
 <!--
   <div align="center">
