@@ -19,7 +19,7 @@
 <!-- <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47gitfzbzv8awptxvx4e0neq7trgfhoakrjzzastlm&rid=giphy.gif&ct=s" width="300px" alt="Developer"> -->
 
 <h3 align="left">A Full Stack MERN Developer and a Aspiring Software Engineer, currently in my final year(2023 Batch) as a student pursuing B.Tech In Computer Science at Guru Nanak Dev Engineering College, Ludhiana. I am learning new data structures while reinforcing my past knowledge and improving my knowledge of software developer concepts. Actively Looking for SDE and SDE-Intern Roles.</h3>
-<img align="right" src="https://github.com/astrogeek77/astrogeek77/blob/main/devcard.svg" alt="Gautam Jain's Dev Card" width="400px"/>
+<img align="right" src="https://api.daily.dev/devcards/v2/RvSLBb2ZywjSSfqPkINLm.png?type=default&r=urh" width="356" alt="Gautam Jain's Dev Card" alt="Gautam Jain's Dev Card" width="400px"/>
 <br>
 <br>
 <p align="left" height="25">
