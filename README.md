@@ -18,7 +18,7 @@
 </p>
 <!-- <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47gitfzbzv8awptxvx4e0neq7trgfhoakrjzzastlm&rid=giphy.gif&ct=s" width="300px" alt="Developer"> -->
 
-<h3 align="left">A Full Stack MERN Developer and a Aspiring Software Engineer, currently in my final year(2023 Batch) as a student pursuing B.Tech In Computer Science at Guru Nanak Dev Engineering College, Ludhiana. I am learning new data structures while reinforcing my past knowledge and improving my knowledge of software developer concepts. Actively Looking for SDE and SDE-Intern Roles.</h3>
+<h3 align="left">Programmer Analyst at Cognizant, B.Tech in CSE. I am currently working with technologies like Oracle Apps, Oracle SQL, Oracle PL/SQL, Java, JSP, JDBC, Spring, Docker etc. I am always open to opportunities to further polish my skills and participate in technology, project ideas, and business discussions.</h3>
 <img align="right" src="https://api.daily.dev/devcards/v2/RvSLBb2ZywjSSfqPkINLm.png?type=default&r=4ez" width="356" alt="Gautam Jain's Dev Card" width="350px"/>
 <br>
 <br>
@@ -36,19 +36,19 @@
 
 - 🌱 I’m currently learning **Java, Flutter and Advance Data Structures**.
 
-- 👯 My Portfolio at [Website](https://icodergautam-portfolio.netlify.app) and Resume at [Resume Showcase](https://icodergautam-portfolio.netlify.app/resume_showcase).
+- 👯 My Portfolio at [Website](https://igautamjain.netlify.app) and Resume at [Resume Showcase](https://igautamjain.netlify.app/resume).
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms, Competitive Programming**.
 
-- 👓💻 All of my projects are available at [Project Showcase](https://icodergautam-portfolio.netlify.app/project_showcase).
+- 👓💻 All of my projects are available at [Project Showcase](https://igautamjain.netlify.app/project).
 
-- 💬 Ask me about **Web Development, Mobile Development, Data Structures, Java and CP**.
+- 💬 Ask me about **Web Development, Mobile Development, Data Structures, Java, and CP**.
 
-- 📫 How to reach me **my mail: igautamjain12345@gmail.com and My Social Linktree at [Web Linktree](https://icodergautam-portfolio.netlify.app/web_linktree)**.
+- 📫 How to reach me **my mail: igautamjain12345@gmail.com and My Social Linktree at [Web Linktree](https://igautamjain.netlify.app/linktree)**.
 
-- 📄 My PDF Resume is available **[Google Drive Link](https://drive.google.com/file/d/1ryCKxdZViDq0htG9vXanOioXiD3i6el8/view?usp=sharing)**.
+- 📄 My PDF Resume is available **[Google Drive Link](https://drive.google.com/file/d/18HQYqaSq4os__qFDoJ5DiHSHUuNQUKh1/view?usp=drive_link)**.
 
-- ⚡ Fun fact **After all it’s all 0’s and 1’s.**
+- ⚡ Fun fact **After all, it’s all 0’s and 1’s.**
 
 <br>
 <p align="center">
