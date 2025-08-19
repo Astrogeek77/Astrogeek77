@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Astrogeek77/Astrogeek77/blob/main/banners/New Banners - may 2024/Gautam Jain (4).png" align="center"/>
-</div>
+</div> -->
 <br>
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47gitfzbzv8awptxvx4e0neq7trgfhoakrjzzastlm&rid=giphy.gif&ct=s" width="300px" alt="Developer">
 <h3 align="left">My Name is Gautam Jain</h3>
@@ -37,7 +37,7 @@
 - ⚡ Fun fact **After all, it’s all 0’s and 1’s.**
 
 <br>
-<p align="center">
+<p align="left">
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 <br>
