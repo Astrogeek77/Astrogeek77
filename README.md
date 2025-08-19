@@ -38,7 +38,7 @@
 
 <br>
 <p align="left">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="500px"/>
 </p>
 <br>
 <h2 align="center">🖥 Technologies i have worked with: </h2>
