@@ -37,8 +37,8 @@
 - ⚡ Fun fact **After all, it’s all 0’s and 1’s.**
 
 <br>
-<p align="left">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="500px"/>
+<p align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 <br>
 <h2 align="center">🖥 Technologies i have worked with: </h2>
